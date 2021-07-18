@@ -11,3 +11,4 @@ Repositório da disciplina de Geometria 1, do curso de Matemática (IFSP - Campu
 - Tarefa Básica 08.
 - Tarefa Básica 09.
 - Tarefa Básica 10.
+- Tarefa Básica 11.
